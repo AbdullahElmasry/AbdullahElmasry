@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Elmasry</h1>
 <h3 align="center">A little software Engineer from Pyramids land</h3>
 
-<p align="left"> <img src="hhttps://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=790b7611l376t16a8ugifx664r1yahmj0ela0jobwphs4r73&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="abdullahelmasry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahelmasry" alt="abdullahelmasry" /></a> </p>
+<p align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJncXZrdzA5NmRqZmwwem9vOXpwOXR5djBoc2ExbjlldWJ2NmtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="abdullahelmasry" /> </p>
 
 - 🔭 I’m currently working on **some Devops projects**
 
