@@ -2,21 +2,13 @@
   <img src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif" alt="Hello World Banner" />
 </p>
 
----
-
 <h1 align="center">Hi 👋, I'm Abdullah Elmasry</h1>
 
----
-
 <h3 align="center">A little software Engineer from Pyramids land</h3>
-
----
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJncXZrdzA5NmRqZmwwem9vOXpwOXR5djBoc2ExbjlldWJ2NmtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="abdullahelmasry" />
 </p>
-
----
 
 - 🔭 I’m currently working on **some DevOps projects**
 
@@ -28,11 +20,7 @@
 
 - 📫 How to reach me **Abdullah.elmasry@ieee-zsb.org**
 
----
-
 <h3 align="left">Connect with me:</h3>
-
----
 
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-mohamed-90a445203/" target="blank">
@@ -43,11 +31,10 @@
   </a>
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 
----
+
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -103,6 +90,6 @@
   </a>
 </p>
 
----
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahelmasry&show_icons=true&locale=en&layout=compact" alt="abdullahelmasry" /></p>
