@@ -2,37 +2,54 @@
   <img src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif" alt="Hello World Banner" />
 </p>
 
+---
+
 <h1 align="center">Hi 👋, I'm Abdullah Elmasry</h1>
+
+---
+
 <h3 align="center">A little software Engineer from Pyramids land</h3>
 
-<div align="center">
-  <p> 
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJncXZrdzA5NmRqZmwwem9vOXpwOXR5djBoc2ExbjlldWJ2NmtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="abdullahelmasry" /> 
-  </p>
-  
-  - 🔭 I’m currently working on **some DevOps projects**
-  
-  - 🌱 I’m currently learning **DevOps tools, Back-end**
-  
-  - 👯 I’m looking to collaborate on **Web Dev projects**
-  
-  - 🤝 I’m looking for help with **learning journey as a software engineer**
-  
-  - 📫 How to reach me **Abdullah.elmasry@ieee-zsb.org**
-</div>
+---
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJncXZrdzA5NmRqZmwwem9vOXpwOXR5djBoc2ExbjlldWJ2NmtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="abdullahelmasry" />
+</p>
+
+---
+
+- 🔭 I’m currently working on **some DevOps projects**
+
+- 🌱 I’m currently learning **DevOps tools, Back-end**
+
+- 👯 I’m looking to collaborate on **Web Dev projects**
+
+- 🤝 I’m looking for help with **learning journey as a software engineer**
+
+- 📫 How to reach me **Abdullah.elmasry@ieee-zsb.org**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+---
+
+<p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-mohamed-90a445203/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://facebook.com/https://www.facebook.com/profile.php?id=100007610714353" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-</div>
+</p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+---
+
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a> 
@@ -84,10 +101,8 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
-</div>
+</p>
 
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahelmasry&show_icons=true&locale=en&layout=compact" alt="abdullahelmasry" />
-  </p>
-</div>
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahelmasry&show_icons=true&locale=en&layout=compact" alt="abdullahelmasry" /></p>
